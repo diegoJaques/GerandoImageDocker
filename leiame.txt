@@ -1,0 +1,4 @@
+é necessario colocar os arquivo dentro da pasta raiz
+
+mkdir /images/go
+
